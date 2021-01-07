@@ -26,7 +26,7 @@
 
 .log-link{
    text-decoration:none;
-  
+   color:blue;
 }
 .log-link:hover{
    text-decoration:underline;
