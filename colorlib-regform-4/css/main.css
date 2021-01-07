@@ -24,6 +24,15 @@
   flex-wrap: wrap;
 }
 
+.log-link{
+   text-decoration:none;
+  
+}
+.log-link:hover{
+   text-decoration:underline;
+  
+}
+
 .row-space {
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
